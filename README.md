@@ -1,0 +1,2 @@
+# amoebachain.
+amoebachain
